@@ -1,0 +1,6 @@
+ami_id1 = "ami-020cba7c55df1f615"
+instance_type1 = "t2.micro"
+cidr_vpc = "10.0.0.0/16"
+cidr_subnet1 = "10.0.0.0/24"
+cidr_internet = "0.0.0.0/0"
+az1 = "us-east-1a"
